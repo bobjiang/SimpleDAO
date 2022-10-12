@@ -19,6 +19,16 @@ If you would like to join my work, just email to me, jiangxb at gmail dot com
   - where is the treasury?
   - how is the distribution of governance power?
   - weakness and suggestions?
+- DAO tools
+  - Discourse https://www.discourse.org/
+  - Snapshot https://snapshot.org/
+  - Tally https://www.tally.xyz/
+  - Gnosis safe https://gnosis-safe.io/
+  - Discord https://discord.com/
+  - Coordinape https://coordinape.com/
+  - Utopia https://www.utopialabs.com/
+  - Dework https://dework.xyz/
+  - etc
 - The categories of DAOs
 - The problems for DAO
 - DAO cases
