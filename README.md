@@ -12,9 +12,18 @@ If you would like to join my work, just email to me, jiangxb at gmail dot com
 - The history of DAO
 - How to launch a DAO
 - Manage or operate a DAO
-- DAO structures
-  - governance
-  - payment
-  - etc.
+- DAO structures (analyze DAO)
+  - relevant link (website, snapshot, safe)
+  - how are the proposals made?
+  - how are the approved proposals excuted?
+  - where is the treasury?
+  - how is the distribution of governance power?
+  - weakness and suggestions?
 - The categories of DAOs
 - The problems for DAO
+- DAO cases
+  - GitcoinDAO
+  - ENSDAO
+  - SeeDAO
+  - EduDAO
+  - etc
