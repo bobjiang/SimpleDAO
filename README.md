@@ -36,4 +36,4 @@ If you would like to join my work, just email to me, jiangxb at gmail dot com
   - ENSDAO
   - SeeDAO
   - EduDAO
-  - PandaDAO (Dissolve)
+  - [PandaDAO (Dissolve)](https://mp.weixin.qq.com/s/fvgBytfuT0Tfo_g0UAaEJw)
