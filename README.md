@@ -2,7 +2,7 @@
 
 ## Status
 
-This book is under constructions, (book name is SimpleDAO) hope it could be done in next 3-6 months.
+This book is under constructions, (book name is tentatively SimpleDAO) hope it could be done in next 3-6 months.
 
 ## SimpleDAO
 
@@ -16,9 +16,10 @@ If you would like to join my work, just email to me, jiangxb at gmail dot com
 
 * [What is DAO](https://mirror.xyz/bobjiang.eth/dWOoDJGp7TKmLrAFO85ld9yAyJF8iRfafgrdHx162Cc)
 * The history of DAO
+* Why are DAOs important
 * How to launch a DAO
 * Manage or operate a DAO
-* DAO structures (analyze DAO)
+* DAO structures (analyze DAO) (aka. DAO modules)
   * relevant link (website, snapshot, safe)
   * how are the proposals made?
   * how are the approved proposals excuted?
@@ -35,7 +36,15 @@ If you would like to join my work, just email to me, jiangxb at gmail dot com
   * Utopia https://www.utopialabs.com/
   * Dework https://dework.xyz/
   * etc
-* The categories of DAOs
+* What is SimpleDAO
+  * How does SimpleDAO work
+  * What problems does it solve
+  * What are in SimpleDAO
+* Decision-making in DAO
+  * voting and consensus
+  * adding or removing DAO members
+  * coping disputes and conflicts
+* The categories of DAOs (aka. DAO cases or 'successful DAOs')
 * The problems for DAO
 * DAO cases
   * GitcoinDAO
@@ -43,3 +52,6 @@ If you would like to join my work, just email to me, jiangxb at gmail dot com
   * SeeDAO
   * EduDAO
   * [PandaDAO (Dissolve)](https://mp.weixin.qq.com/s/fvgBytfuT0Tfo\_g0UAaEJw)
+* Conclusion
+  * Lesson Learned from DAO cases
+  * Call to actions for readers
